@@ -1,1 +1,1 @@
-Publish ever project to github or anywhere so people could see, learn, and know to help others
+All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
